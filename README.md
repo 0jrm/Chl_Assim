@@ -1,2 +1,2 @@
 # Chl_Assim
-Assimilating Chlorophyll
+Investigating the potential benefits of assimilating Chlorophyll into HYCOM
